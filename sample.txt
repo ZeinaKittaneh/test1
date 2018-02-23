@@ -1,0 +1,6 @@
+a test of git commands:
+git add -A
+git status
+git commit -m "A note"
+git push
+git pull
